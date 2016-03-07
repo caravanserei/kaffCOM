@@ -13,6 +13,8 @@ You may want to build all of the electronics inlcuding the Arduino into my kaffC
 
 If you are interested in the technical details please have a closer look at the not too complicated wiring diagram of kaffCOM and the pictures and oscillograms of the project.
 
+By the way: this prototype is made with the "toner-direct-method" for both sides.
+
 07.03.2016 - Created this repository to share the contents.
 
 DISCLAIMER: This project was made for fun and for private purposes only and it comes as it is without any warranty or garanteed functionality. Use at your own risk including the risk of damaging your devices.
