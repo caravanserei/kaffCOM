@@ -3,7 +3,7 @@ Infrared and Serial Interface for certain Swiss-made Coffeemakers.
 
 This hardware and software is intended to read and control some coffeemakers of that well known Swiss brand (and some others) which make use of an infrared coupled diagnostic port. The same circuit can read out direct coupled (plugged-in) machines as well as long as they use the same TTL-based/5V UART protocol and physical pin-assigment. If the four-pin header doesn't fit your machine, maybe you find the appropriate pin-assignment of other machines and can make a simple adaptor of the relevant signals RXD, TXD and GND.
 
-![kaffCom-at-work](kaffCOM-im-Einsatz.JPG?raw=true "kaffCOM at Work!")
+![kaffCom-at-work](./pictures/kaffCOM-im-Einsatz.JPG?raw=true "kaffCOM at Work!")
 
 kaffCOM software is based on the original Arduino-scripts coffeemaker-communication-tool.ino and EEPROM_tool.ino written by OLIVER KROHN in December 2014 which you may find on GITHUB, too: https://github.com/oliverk71/Coffeemaker-Payment-System. 
 
