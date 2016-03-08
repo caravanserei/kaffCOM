@@ -19,8 +19,8 @@ By the way, the prototype you see here is made with the "toner-direct-method" fo
 
 DISCLAIMER: This project was made for fun and for private purposes only and it comes as it is without any warranty or guaranteed properties. Use at your own risk including the risk of damaging all of your devices and loss of data.
 
-Arnd Schaffert
-March 2016, Munich, Germany
+Arnd Schaffert, March 2016
+Munich, Germany
 
 
 
